@@ -1,0 +1,114 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Escuela N&ordm; 307 - Tucuman - Argentina</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+//-->
+</script>
+</head>
+
+<body bgcolor="#000000" text="#CCCCCC" link="#FFFFFF" vlink="#666666" alink="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="MM_preloadImages('imagenes/home_04-over.gif','imagenes/home_05-over.gif','imagenes/home_07-over.gif','imagenes/home_08-over.gif','imagenes/home_09-over.gif','imagenes/home_10-over.gif','imagenes/home_11-over.gif','imagenes/home_03-over.gif')">
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="1B1B1B">
+  <tr> 
+    <td width="10"><img src="../imagescommon/border.gif" width="9" height="620"></td>
+    <td width="789" align="center" valign="top"><table width="780" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td width="314"><img src="imagenes/home_02.gif" width="314" height="74"></td>
+          <td width="296"><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image14','','imagenes/home_03-over.gif',1)"><img src="imagenes/home_03.gif" name="Image14" width="296" height="74" border="0"></a></td>
+          <td width="68"><a href="../deutsch/laescuelita.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image5','','imagenes/home_04-over.gif',1)"><img src="imagenes/home_04.gif" name="Image5" width="68" height="74" border="0"></a></td>
+          <td width="102"><a href="mailto:info@ecolmar.com" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image6','','imagenes/home_05-over.gif',1)"><img src="imagenes/home_05.gif" name="Image6" width="122" height="74" border="0"></a></td>
+        </tr>
+      </table>
+      <table width="780" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td width="186"><a href="laescuelita.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image7','','imagenes/home_07-over.gif',1)"><img src="imagenes/home_07.gif" name="Image7" width="186" height="44" border="0"></a></td>
+          <td width="128"><a href="elpadrinazgo.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image8','','imagenes/home_08-over.gif',1)"><img src="imagenes/home_08.gif" name="Image8" width="128" height="44" border="0"></a></td>
+          <td width="139"><a href="lasnecesidades.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image9','','imagenes/home_09-over.gif',1)"><img src="imagenes/home_09.gif" name="Image9" width="139" height="44" border="0"></a></td>
+          <td width="145"><a href="comocolaborar.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image10','','imagenes/home_10-over.gif',1)"><img src="imagenes/home_10.gif" name="Image10" width="145" height="44" border="0"></a></td>
+          <td width="182"><a href="auditatuayuda.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image11','','imagenes/home_11-over.gif',1)"><img src="imagenes/home_11.gif" name="Image11" width="202" height="44" border="0"></a></td>
+        </tr>
+      </table>
+      <table width="800" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td height="123"><img src="imagenes/titu_laescuelita.gif" width="412" height="103"> 
+            <div id="Layer2" style="position:absolute; width:97px; height:18px; z-index:2; left: 556px; top: 125px;"><font color="#FFFFFF" size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Ubicaci&oacute;n</strong> 
+              (Google Earth)</font></div>
+            <div id="Layer3" style="position:absolute; width:58px; height:37px; z-index:3; left: 556px; top: 164px;"><a href="Escuelita307.kmz"><img src="google%20argchico.jpg" width="57" height="35" border="0"></a></div>
+            <div id="Layer1" style="position:absolute; left:729px; top:110px; width:184px; height:29px; z-index:1"> 
+              <font size="1" face="Arial, Helvetica, sans-serif"><a href="q%20es%20la%20escuela%20para%20ellos.mp3"><strong>Audio: 
+              La Escuelita, entrevista en FM TIDE 96.0 Hamburgo, Alemania</strong></a></font></div>  
+            <div id="Layer4" style="position:absolute; width:87px; height:50px; z-index:4; left: 727px; top: 183px;"><a href="../imagescommon/5%20siglos%20igual%20en%20baja.wmv"><img src="../imagescommon/cincosiglos.gif" width="85" height="50" border="0"></a> 
+            </div>
+            <div id="Layer5" style="position:absolute; width:73px; height:51px; z-index:5; left: 828px; top: 183px;"><a href="../imagescommon/Los%20chicos.wmv"><img src="../imagescommon/escuelafilm.gif" width="85" height="50" border="0"></a></div>
+            <div id="Layer6" style="position:absolute; width:38px; height:15px; z-index:6; left: 729px; top: 156px;"><font size="1" face="Arial, Helvetica, sans-serif"><strong><u><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif">Videos</font>:</u></strong></font></div></td>
+        </tr>
+      </table>
+      <table width="800" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="75" valign="top"><img src="imagenes/puntito.gif" width="100" height="60"></td>
+          <td width="650" valign="top"><font face="Arial, Helvetica, sans-serif"> 
+            <p><font size="2"><img src="../fotos/La%20escuela/PIC_0007.JPG" width="320" height="240" hspace="10" vspace="5" align="right">La 
+              Escuela N&ordm; 307 &#8220; Marcelina D&iacute;az Ib&aacute;nez 
+              de G&oacute;mez&#8221; es una peque&ntilde;a escuela rural en La 
+              Puerta de Marapa, Alberdi, Provincia de Tucum&aacute;n en el noroeste 
+              de la Argentina. Sus alumnos son ni&ntilde;os en edad escolar primaria 
+              entre 6 y 12 a&ntilde;os. Los padres de los ni&ntilde;os son en 
+              su mayor&iacute;a jornaleros que trabajan en la zafra del az&uacute;car, 
+              del tabaco, en la recolecci&oacute;n de limones o est&aacute;n desempleados. 
+              </font></p>
+            <p><font size="2">El ambiente socioecon&oacute;mico en el que se desenvuelven 
+              los alumnos de la escuelita est&aacute; caracterizado por familias 
+              numerosas de escasos ingresos donde los ni&ntilde;os ayudan activamente 
+              en la econom&iacute;a familiar. El ausentismo escolar es alto y 
+              la violencia est&aacute; presente en muchas de las familias. </font></p>
+            </font> 
+            <p><font size="2" face="Arial, Helvetica, sans-serif">Los alumnos 
+              recorren entre 2 y 6 km a pie para llegar a la escuela badeando, 
+              en muchos casos, r&iacute;os y canales.</font></p>
+            <p><br>
+            </p></td>
+          <td width="75" valign="top"><img src="imagenes/puntito.gif" width="100" height="60"></td>
+        </tr>
+      </table></td>
+    <td width="10"><img src="../imagescommon/border.gif" width="9" height="620"></td>
+  </tr>
+</table>
+<div align="center"></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>
